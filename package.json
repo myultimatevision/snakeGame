@@ -1,0 +1,12 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "A simple Nokia mobile snake game",
+  "main": "snake.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node snake.js"
+  },
+  "author": "58025056+abhilashkasula@users.noreply.github.com",
+  "license": "ISC"
+}
